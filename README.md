@@ -1,4 +1,7 @@
-# test coverage for  [ejs-locals (v1.0.2)](https://github.com/randometc/ejs-locals)  [![npm package](https://img.shields.io/npm/v/npmtest-ejs-locals.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ejs-locals) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ejs-locals.svg)](https://travis-ci.org/npmtest/node-npmtest-ejs-locals)
+# npmtest-ejs-locals
+
+#### basic test-coverage for  [ejs-locals (v1.0.2)](https://github.com/randometc/ejs-locals)  [![npm package](https://img.shields.io/npm/v/npmtest-ejs-locals.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ejs-locals) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ejs-locals.svg)](https://travis-ci.org/npmtest/node-npmtest-ejs-locals)
+
 #### Express 3.x locals for layout, partial and blocks.
 
 [![NPM](https://nodei.co/npm/ejs-locals.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ejs-locals)
@@ -77,7 +80,8 @@
     "scripts": {
         "test": "mocha -r should -R spec"
     },
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "bin": {}
 }
 ```
 
